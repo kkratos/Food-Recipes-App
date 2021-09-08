@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Foody</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="recipe_fragment">Recipes</string>
+    <string name="favourite_recipes_fragment">Favourites</string>
+    <string name="food_joke">Joke</string>
+    <string name="restaurant">restaurant</string>
+    <string name="error_text">No Internet Connection</string>
+    <string name="recipe_image">recipe image</string>
+    <string name="Title">TextView</string>
+    <string name="error_image">error_image</string>
+</resources>
